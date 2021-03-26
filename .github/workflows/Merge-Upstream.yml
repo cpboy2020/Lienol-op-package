@@ -17,7 +17,7 @@ on:
 # 编辑触发
   push:
     branches:
-      - master
+      - main
 
 # 点赞触发
   watch:
